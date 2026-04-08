@@ -10,5 +10,5 @@ This has led me to start looking at improving my resume as I prepare to enter th
 
 Wyatt
 
-[Link to Building a SOC](/Building_a_SOC.html)
+[Link to Building a SOC](/Building_a_SOC.md)
 
