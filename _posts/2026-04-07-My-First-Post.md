@@ -1,7 +1,6 @@
 ---
 title: "My First Post"
 excerpt_separator: <!--more-->
-title: TITLE
 date: 2026-04-07 10:37:00 -0500
 categories: 
 tags:      # TAG names should always be lowercase
@@ -12,5 +11,5 @@ This has led me to start looking at improving my resume as I prepare to enter th
 
 Wyatt
 
-[Link to Building a SOC](/Building_a_SOC.md)
+[Link to Building a SOC](2026-04-07-Building-a-SOC.md)
 
