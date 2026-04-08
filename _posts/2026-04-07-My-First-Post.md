@@ -1,8 +1,10 @@
 ---
 title: "My First Post"
-written: April 7, 2026
-categories:
 excerpt_separator: <!--more-->
+title: TITLE
+date: 2026-04-07 10:37:00 -0500
+categories: 
+tags:      # TAG names should always be lowercase
 ---
 This is my first ever blog post that I have ever written. Now for some background information, I am currently in my last semester at Ozarks Tech and will be graduating with an Associates in Cybersecurity.
 <!--more-->
