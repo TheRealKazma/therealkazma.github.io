@@ -4,14 +4,12 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
-
 Hello! My name is **Wyatt Collins**, I am a soon to be graduate from Ozarks Tech with a passion  **Cybersecurity** and am currently at the time of writing this finishing my final semester of college to obtain my associates degree. Through my time in college I have acquired the certifications listed below and am in the process of getting the CompTIA Pentest+, CySA+, and Cisco's CCNA. In my free time I am probably tending to my homelab, testing new open source software, or relaxing with a nice book.
 
-### Certificates:
+### Certificates
+
 - CompTIA
-    - A+
-    - Network+
-    - Security+
-    - Linux+
+  - A+
+  - Network+
+  - Security+
+  - Linux+
