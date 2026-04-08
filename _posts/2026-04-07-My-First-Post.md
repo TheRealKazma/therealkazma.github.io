@@ -11,5 +11,5 @@ This has led me to start looking at improving my resume as I prepare to enter th
 
 Wyatt
 
-[Link to Building a SOC](2026-04-07-Building-a-SOC.md)
+[Link to Building a SOC](./2026-04-07-Building-a-SOC.md)
 

@@ -13,7 +13,7 @@ Those topics being:
 3. What can be done at home?
 4. My progress though the whole thing
 
-At the end of this project with the skills I learn from [Simulating Attacks](2026-04-07-Simulating-Attacks.md) I would like to simulate pentesting the network and then look through and document whether or not a full open source approach to a SOC is worth it either for home, enterprise, or both.
+At the end of this project with the skills I learn from [Simulating Attacks](./2026-04-07-Simulating-Attacks.md) I would like to simulate pentesting the network and then look through and document whether or not a full open source approach to a SOC is worth it either for home, enterprise, or both.
 
 # The Setup
 For the setup I will attempting a somewhat all open source approach to my simulated SOC environment. This will include using Proxmox, GNS3, and a multitude of open source software to fulfill a requirement for a simulated SOC.
